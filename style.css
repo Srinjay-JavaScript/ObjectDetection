@@ -1,0 +1,24 @@
+body {
+  background-size: cover;
+  background-position: center;
+}
+.heading {
+  width: 75%;
+  border: black 3px solid;
+  font-style: italic;
+  font-weight: lighter;
+  background: linear-gradient(90deg, rgb(79, 109, 243), red);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+#status {
+  border: 3px dotted white;
+  background: linear-gradient(90deg, rgb(79, 109, 243), red);
+  color: white;
+}
+canvas {
+  box-shadow: 10px 10px 10px grey;
+  border: 5px double black;
+  border-radius: 5px;
+}
